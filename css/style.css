@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+h2 {
+    color: #27ae60;
+}
+
+body::before {
+    content: "CI Básica - GitHub Actions";
+    display: block;
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 20px;
+}
