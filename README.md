@@ -1,0 +1,1 @@
+[![Verificación CI Básica](https://github.com/YuliethMosquera/GitHub-Actions-Yuli/actions/workflows/ci.yml/badge.svg)](https://github.com/YuliethMosquera/GitHub-Actions-Yuli/actions/workflows/ci.yml)
